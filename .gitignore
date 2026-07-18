@@ -1,0 +1,16 @@
+cat > .gitignore << 'EOF'
+# KiCad archivos temporales y de respaldo
+*.lck
+*-backups/
+_autosave-*
+*.kicad_prl
+fp-info-cache
+
+# Archivos de simulación SPICE temporales
+*.raw
+*.op.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+EOF

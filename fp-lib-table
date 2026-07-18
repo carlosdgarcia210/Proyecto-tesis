@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Heltec_ESP32_LoRa_V3") (type "KiCad") (uri "${KIPRJMOD}/libs/WIFI_KIT_32__V3_/Heltec_ESP32_LoRa_V3.pretty") (options "") (descr ""))
+)
